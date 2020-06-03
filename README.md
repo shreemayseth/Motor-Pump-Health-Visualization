@@ -6,7 +6,7 @@ This is a full stack web development project which is made for Data Visualizatio
 Then the Interface will display the data visualization using graphs dynamically.
 
 
-### Stack used: html,css,bootstap,js,jquery,php,mysql.
+### Stack used: html,css,bootstap,D3.js,jquery,php,mysql.
 
 
 
