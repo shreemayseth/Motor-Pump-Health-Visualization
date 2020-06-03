@@ -1,6 +1,6 @@
 # Motor-pump-Visualization
 
-![D3](https://img.shields.io/badge/Visualization Tool-D3-blue.svg) ![Backend](https://img.shields.io/badge/Backend-PHP-green.svg) ![D3](https://img.shields.io/badge/Database-Mysql-red.svg)
+![D3](https://img.shields.io/badge/Visualization-Tool-D3-blue.svg) ![Backend](https://img.shields.io/badge/Backend-PHP-green.svg) ![D3](https://img.shields.io/badge/Database-Mysql-red.svg)
 
 This is a full stack web development project which is made for Data Visualization of a motor pump. Randomly different values of pump has been uploaded to the database(Ex:current,voltage,etc.,)
 Then the Interface will display the data visualization using graphs dynamically.
