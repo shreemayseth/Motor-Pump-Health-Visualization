@@ -4,3 +4,9 @@ Then the Interface will display the data visualization using graphs dynamically.
 
 
 stack used: html,css,bootstap,js,jquery,php,mysql.
+
+
+
+
+![image](https://user-images.githubusercontent.com/39726093/83601273-e0e07680-a58d-11ea-85b7-4ab4f0123d4b.png)
+
